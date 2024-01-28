@@ -1,1 +1,2 @@
-# cs0445-demo-3.inheritance
+# Demo for CS 445
+## Lecture 3: Copying objects
